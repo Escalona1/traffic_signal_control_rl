@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-11-15 22:31:03 by Eclipse SUMO netedit Version 1.21.0
+<neteditConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/neteditConfiguration.xsd">
+
+    <input>
+        <sumocfg-file value="C:\Users\Usuario\Desktop\simulacionesRL\simulacion.sumocfg"/>
+        <additional-files value="C:\Users\Usuario\Desktop\simulacionesRL\simulacion.add.xml"/>
+        <route-files value="C:\Users\Usuario\Desktop\simulacionesRL\autos.rou.xml"/>
+        <data-files value="C:\Users\Usuario\Desktop\simulacionesRL\simulacion.dat.xml"/>
+        <sumo-net-file value="C:\Users\Usuario\Desktop\simulacionesRL\interseccion.net.xml"/>
+    </input>
+
+    <processing>
+        <offset.disable-normalization value="true"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+    </junctions>
+
+    <netedit>
+        <new-network value="false"/>
+    </netedit>
+
+</neteditConfiguration>
+-->
+
+<tlLogic id="J1" type="static" programID="0" offset="0">
+    <phase duration="42" state="rGGrrrrGGr"/>  <!-- Fase verde -->
+    <phase duration="3" state="ryyrrrryyr"/>   <!-- Fase amarilla -->
+    <phase duration="42" state="rrrGGGGrrr"/>  <!-- Otra fase verde -->
+    <phase duration="3" state="rrryyyyrrr"/>   <!-- Otra fase amarilla -->
+</tlLogic>
