@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2024-11-16 17:30:37 by Eclipse SUMO netedit Version 1.21.0
+<!-- generated on 2024-12-12 12:12:52 by Eclipse SUMO netedit Version 1.21.0
 <neteditConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/neteditConfiguration.xsd">
 
     <input>
-        <sumo-net-file value="/home/lucas/RL/traffic_signal_control_rl/simulacionesRL/interseccion.net.xml"/>
+        <sumo-net-file value="/home/lucas/RL/traffic_signal_control_rl/intersection/interseccion.net.xml"/>
     </input>
 
     <output>
-        <output-file value="/home/lucas/RL/traffic_signal_control_rl/simulacionesRL/interseccion.net.xml"/>
+        <output-file value="/home/lucas/RL/traffic_signal_control_rl/intersection/interseccion.net.xml"/>
     </output>
 
     <processing>

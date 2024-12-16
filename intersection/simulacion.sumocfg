@@ -11,4 +11,8 @@
         <additional-files value="simulacion.add.xml"/>
     </input>
 
+    <processing>                                                                                                                                                                  
+        <time-to-teleport value="-1"/>                                                                                                                                        
+    </processing>
+
 </sumoConfiguration>
